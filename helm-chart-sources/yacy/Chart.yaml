@@ -1,0 +1,7 @@
+apiVersion: v2
+name: yacy
+description: A Helm chart for the YaCy search server
+
+type: application
+version: 0.1.0
+appVersion: latest

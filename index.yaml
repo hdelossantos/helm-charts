@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yacy:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2020-10-06T20:35:09.726794-04:00"
+    description: A Helm chart for the YaCy search server
+    digest: 05dff7c7b1e8cf76e90abb0847b483bbc72b7cedaa8adf7fff09ea68cefa13a2
+    name: yacy
+    type: application
+    urls:
+    - https://hdelossantos.github.io/helm-charts/yacy-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-06T20:35:09.72601-04:00"
